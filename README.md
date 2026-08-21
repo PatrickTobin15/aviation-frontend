@@ -1,6 +1,6 @@
 # Airport Arrivals & Departures — Frontend
 
-React (Vite) frontend for the Airport Arrivals & Departures app. This is the frontend half of a two-repo project — see the [backend repo](#) for the API, entity design, and full project README (architecture, user stories, deployment steps).
+React (Vite) frontend for the Airport Arrivals & Departures app. This is the frontend half of a two repo project see the https://github.com/PatrickTobin15/aviation-backend/tree/main for the API, entity design, and full project README (architecture, user stories, deployment steps).
 
 ## Running Locally
 
